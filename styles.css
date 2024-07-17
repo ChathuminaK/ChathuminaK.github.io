@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+header h1 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info p {
+    margin: 0.2rem 0;
+}
+
+.contact-info a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.about, .education, .projects, .skills {
+    background: #fff;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.about h2, .education h2, .projects h2, .skills h2 {
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.about p, .education ul, .projects ul, .skills ul {
+    margin: 0.5rem 0;
+}
+
+.education ul, .projects ul, .skills ul {
+    list-style-type: none;
+}
+
+.education li, .projects li, .skills li {
+    margin: 1rem 0;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 1rem;
+}
