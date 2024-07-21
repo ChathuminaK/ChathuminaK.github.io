@@ -24,4 +24,5 @@ I'm a full stack developer...
 
 ## Screenshots
 
-![App Screenshot](https://imagetolink.com/ib/vpcjZ2t0Aq)![Screenshot 2024-07-21 125301](https://github.com/user-attachments/assets/51d3550f-7696-4c3c-9743-e25ac6f84603)
+![Screenshot 2024-07-21 125301](https://github.com/user-attachments/assets/51d3550f-7696-4c3c-9743-e25ac6f84603)
+![Screenshot 2024-07-21 130944](https://github.com/user-attachments/assets/f1413b7d-fc5e-4b60-9967-56743af357a4)
