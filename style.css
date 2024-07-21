@@ -191,7 +191,6 @@ body {
 .book-page.page-right {
     position: absolute;
     right: 0;
-<<<<<<< HEAD
     transform-style: preserve-3d;
     transform-origin: left;
     transition: transform 1s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -488,6 +487,3 @@ body {
     transform: translateX(-50%) scale(1);
     top: -1.8rem;
 }
-=======
-}
->>>>>>> 13df207f5d9fe3d28d88ca0b7337f27c176f5901
