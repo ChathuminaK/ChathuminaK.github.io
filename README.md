@@ -24,5 +24,5 @@ I'm a full stack developer...
 
 ## Screenshots
 
-![Screenshot 2024-07-21 125301](https://github.com/user-attachments/assets/51d3550f-7696-4c3c-9743-e25ac6f84603)
+![Screenshot 2024-07-21 131649](https://github.com/user-attachments/assets/a3cb2b8f-d87c-4700-825c-c885b7b28a40)
 ![Screenshot 2024-07-21 130944](https://github.com/user-attachments/assets/f1413b7d-fc5e-4b60-9967-56743af357a4)
