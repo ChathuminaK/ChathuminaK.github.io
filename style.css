@@ -387,7 +387,7 @@ body {
 
 .portfolio-box .info-box {
     margin: 1rem 0 1.5rem;
-} 
+}
 
 .portfolio-box .info-box .info-title {
     display: flex;
@@ -396,7 +396,7 @@ body {
     margin-bottom: 1rem;
 }
 .portfolio-box .info-box .info-title h3 {
-    font-size: 1.3rem;    
+    font-size: 1.3rem;
 }
 
 .portfolio-box .info-box .info-title a {
@@ -416,7 +416,7 @@ body {
 .portfolio-box .btn-box {
     display: flex;
     justify-content: center;
-} 
+}
 
 .portfolio-box .btn-box .btn {
     margin: 0 1.15rem;
