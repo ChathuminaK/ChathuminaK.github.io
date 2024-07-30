@@ -11,14 +11,14 @@
 }
 
 :root {
-  --bg-color: #081b29;
-  --main-color: #00abf0;
+  --bg-color: #000000;
+  --main-color: #006891;
   --text-color: #333;
-  --second-text-color: #555;
+  --second-text-color: #252525;
   --white-color: #fff;
-  --cover-color: linear-gradient(45deg, #00abf0, #006e9a);
-  --pages-color: linear-gradient(90deg, #fff, #ddd);
-  --border: .125rem solid #00abf0;
+  --cover-color: linear-gradient(45deg, #0487ba, #014b68);
+  --pages-color: linear-gradient(90deg, #d6d6d6, #b1b0b0);
+  --border: .125rem solid #0087bc;
   --box-shadow: 0 0 .6rem rgba(0, 0, 0, .2);
 }
 
@@ -386,7 +386,7 @@ body {
 
 .portfolio-box .info-box {
     margin: 1rem 0 1.5rem;
-} 
+}
 
 .portfolio-box .info-box .info-title {
     display: flex;
@@ -395,7 +395,7 @@ body {
     margin-bottom: 1rem;
 }
 .portfolio-box .info-box .info-title h3 {
-    font-size: 1.3rem;    
+    font-size: 1.3rem;
 }
 
 .portfolio-box .info-box .info-title a {
@@ -415,7 +415,7 @@ body {
 .portfolio-box .btn-box {
     display: flex;
     justify-content: center;
-} 
+}
 
 .portfolio-box .btn-box .btn {
     margin: 0 1.15rem;
